@@ -1,7 +1,7 @@
 # End-to-End_E-commerece_Book_Recommendation_System
 An end-to-end book recommendation system that covers data collection, preprocessing,EDA,model building, and deployment, enabling personalized book suggestions using collaborative and content-based filtering.
 
-
+![image alt] (assets/image.png)
 
 ## Workflow
 
